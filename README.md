@@ -1,5 +1,4 @@
 # Hi ✋ I'm Abhay Pandit
-# 💫 About Me:
 I am a MERN developer with 3+ year of experience through self-learning and personal projects, where I developed and maintained web applications using the MERN stack (MongoDB, Express, React, Node.js). I have a strong understanding of web development principles and best practices, and I am proficient in HTML, CSS, and JavaScript. I am also experienced with React, Node.js, and MongoDB.
 
 
